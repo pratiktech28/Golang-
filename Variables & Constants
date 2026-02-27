@@ -1,0 +1,54 @@
+package main 
+import "fmt"
+
+const pi = 3.14
+func main() {
+	fmt.Println(3+45)
+	fmt.Println(true)
+	fmt.Println(1.23567882766)
+	/*fmt.Println(5098/25)
+	fmt.Println(897.87*259)
+	fmt.Println(5098%25)
+	fmt.Println(5098558+44552)
+	fmt.Println(0.25/589)*/
+    //variables~
+	var myname = "Prateek Sharma "
+	fmt.Println(myname)
+	//If else statemaent~
+	var num = 1230
+	if num%2 == 0 {
+		fmt.Println("Even")
+		} else {
+	
+			fmt.Println("Odd")
+		}
+
+		// short syntax ~
+     name  := "Hey ,I'm a driven!!!..."
+	fmt.Println(name)
+
+	// float~
+	var adults = 6.76
+	fmt.Println(adults)
+
+	// short 
+	adults2 := 7.89
+	fmt.Println(adults2)
+
+	// Constants~
+	fmt.Println(pi)
+
+	// Constants grouping :- Muntiple constants can be grouped together using parentheses.
+	const (
+		Myname = "Pratham"
+		branch = "AIML"
+		clg = "CDGI , Indore"
+		e_mail = "pratiktech28@gmail.com"
+		phn = 8273723090
+
+	)
+	fmt.Println(Myname, branch, clg, e_mail, phn)
+	}
+
+
+	
