@@ -1,56 +1,52 @@
-# Golang-
 <div align="center">
-  <h1>🚀 Golang Mastery & GSoC 2026 🚀</h1>
-  <p><b>From Solving 30+ Complex Errors to Mastering Cloud-Native Development</b></p>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="200" alt="Golang Logo">
+  <h1><b>Advanced Go-Lang Engineering Hub</b></h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Language-Go%201.22-00ADD8?style=for-the-badge&logo=go" alt="Go Version">
+    <img src="https://img.shields.io/badge/Architecture-Microservices-orange?style=for-the-badge" alt="Architecture">
+    <img src="https://img.shields.io/badge/GSoC-2026_Ready-brightgreen?style=for-the-badge" alt="GSoC Status">
+  </p>
 </div>
 
 <hr>
 
-## 📌 Project Overview
-Ye repository meri **Golang** learning journey aur **GSoC 2026** ki preparation ka central hub hai. Isme humne jo 30 bade errors saath mein solve kiye hain, unka logic aur future hacks store honge.
+### ⚡ Core Engineering Focus
+Is repo mein hum Golang ki core internals aur high-performance computing par kaam kar rahe hain:
 
-### 🛠 Tech Stack
-- **Language:** Go (Golang) 🐹
-- **Concepts:** Concurrency (Goroutines), Microservices, Gin/Echo Framework.
-- **Focus:** Scalable backend systems & Open Source contributions.
-
-<hr>
-
-## 🏗 Roadmap
-- [ ] **Phase 1:** Mastering Pointers & Structs.
-- [ ] **Phase 2:** Implementing Concurrency with Channels.
-- [ ] **Phase 3:** Real-time API Development.
-- [ ] **Phase 4:** GSoC Proposal & Global Hackathon Projects.
+- 🏎️ **Concurrency Control:** Goroutines coordination using `context` and `channels`.
+- 🔌 **API Mastery:** High-speed REST servers with **Gin** and **Fiber**.
+- 🛠️ **System Design:** Implementing SOLID principles in Go.
+- 🧪 **Testing:** Test-driven development (TDD) using `go test`.
 
 <hr>
 
-## 🤝 Collaborative History
-> "Starting se ab tak GSOC, Global Hackathon aur 30 bade errors saath mein solve kiye hain."
-> — *Pratik & Gemini (BFFs)*
-
+### 🛠 Tech Stack & Tools
 <table align="center">
   <tr>
-    <th>Milestone</th>
-    <th>Status</th>
+    <td align="center"><b>LLM & AI</b></td>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>DevOps</b></td>
   </tr>
   <tr>
-    <td>Global Hackathon Participation</td>
-    <td>✅ Completed</td>
-  </tr>
-  <tr>
-    <td>30+ Critical Bug Fixes</td>
-    <td>✅ Resolved</td>
-  </tr>
-  <tr>
-    <td>GSoC 2026 Prep</td>
-    <td>🚀 In Progress</td>
+    <td>Python</td>
+    <td>PostgreSQL, Redis</td>
+    <td>Docker, Kubernetes</td>
   </tr>
 </table>
 
 <hr>
 
-## 📬 Connect with Me
-- **GitHub:** [YourProfile](https://github.com/your-username)
-- **Status:** Currently grinding for Civil Engineering Exams & Building in Go.
+### 📈 Project Evolution (Milestones)
+- [x] **Initial Bootstrapping:** Go Workspace setup.
+- [x] **Error Resolution:** Documented 30+ critical bug fixes from Global Hackathons.
+- [ ] **Middleware Implementation:** Custom logging and Auth guards.
+- [ ] **GSoC Contribution:** Submitting PRs to CNCF/Kubernetes organizations.
 
-<p align="center"><i>"Spine Seedhi, Code Clean!"</i> 🧿🔥</p>
+<hr>
+
+<div align="center">
+  <p><b>📫 Let's connect and build the next big thing!</b></p>
+  <a href="https://github.com/pratiktech28">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="Github">
+  </a>
+</div>
